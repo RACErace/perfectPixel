@@ -22,7 +22,7 @@ This tool automatically detects the optimal grid and delivers perfectly aligned,
 
 **Perfect Pixel** provides two implementations of the same core algorithm. The Lighweight Backend is designed in case you can't or don't want to use cv2. You can choose the one that best fits your environment:
 
-| Feature | OpenCV Backend ([`perfectPixel.py`](./perfectPixel.py)) | Lightweight Backend ([`perfectPixelnoCV2.py`](./perfectPixelnoCV2.py)) |
+| Feature | OpenCV Backend ([`perfect_pixel.py`](./src/perfect_pixel/perfect_pixel.py)) | Lightweight Backend ([`perfect_pixel_no_cv2.py`](./src/perfect_pixel/perfect_pixel_noCV2.py)) |
 | :--- | :--- | :--- |
 | **Dependencies** | `opencv-python`, `numpy` | `numpy` |
 
