@@ -1,6 +1,6 @@
 import cv2
 import matplotlib.pyplot as plt
-from src.perfect_pixel.perfect_pixel_noCV2 import get_perfect_pixel
+from src.perfect_pixel import get_perfect_pixel
 
 path = "images/girl.jpg"
 # path = "images/avatar.png"
