@@ -57,7 +57,7 @@ The image is in pixel style but the grids are distorted. Also we don't know the 
 
 ```python
 import cv2
-from perfect-pixel import get_perfect_pixel
+from perfect_pixel import get_perfect_pixel
 
 bgr = cv2.imread("images/avatar.png", cv2.IMREAD_COLOR)
 rgb = cv2.cvtColor(bgr, cv2.COLOR_BGR2RGB)
