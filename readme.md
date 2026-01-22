@@ -82,7 +82,7 @@ Try integrate it into your own projects!
 | Args | Description | 
 | :--- | :--- |
 | **image** | `RGB Image (H * W * 3)` |
-| **sample_method** | `"majority" or "center"` |
+| **sample_method** | `"center", "median" or "majority"` |
 | **grid_size** | `Manually set grid size (grid_w, grid_h) to override auto-detection` |
 | **min_size** | `Minimum pixel size to consider valid` |
 | **peak_width** | `Minimum peak width for peak detection.` |
