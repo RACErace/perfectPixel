@@ -7,6 +7,8 @@ This document describes the usage of the **Perfect Pixel (Grid Restore)** node i
 
 ## Node Parameters
 
+![example](../../images/comfyui.png)
+
 The **Perfect Pixel (Grid Restore)** node provides the following configurable parameters:
 
 - **sampling**
