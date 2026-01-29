@@ -35,7 +35,7 @@ git clone https://github.com/TobyKSKGD/perfectPixel-ComfyUI.git
 
 ### Manual Installation
 
-Download this repository, then copy the entire `perfectPixel-ComfyUI` folder into `ComfyUI/custom_nodes`.
+Download this repository, then copy the entire `./integrations/comfyui/perfectPixel-ComfyUI` folder into `ComfyUI/custom_nodes`.
 Restart ComfyUI after copying.
 
 After restarting, search for **Perfect Pixel (Grid Restore)** in the node search panel on the left to find the node.
