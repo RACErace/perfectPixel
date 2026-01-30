@@ -36,7 +36,17 @@ pip install perfect-pixel[opencv]
 pip install perfect-pixel
 ```
 
+## ComfyUI
+
+A ComfyUI custom node is available for integrating Perfect Pixel into ComfyUI workflows.
+
+- No changes to the core Perfect Pixel algorithm
+- Provides a ComfyUI-friendly interface for pixel art refinement
+
+- [`Learn how to use Perfect Pixel as a ComfyUI node`](integrations/comfyui/README.md)
+
 ## Usage 
+
 ### Step 1: Get pixel style image
 First you need extra tools to get a pixel styled image. **The recommanded size is between 512 to 1024.**
 
